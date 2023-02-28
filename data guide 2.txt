@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVx1vK7.jpg",
+      "title": "Banban Helper 1",
+        "text_Content": "Banban Helper is a web-based productivity tool that offers a comprehensive set of features designed to help users manage their daily tasks and stay organized. This tool is primarily aimed at professionals, entrepreneurs, and individuals who need to juggle multiple responsibilities and want to optimize their time management skills. Banban Helper offers a range of features, including task lists, project management tools, and time tracking capabilities, all of which can be accessed through a user-friendly web interface.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVx1ePS.jpg",
+      "title": "Banban Helper 2",
+        "text_Content": "One of the core features of Banban Helper is its task list functionality. Users can create task lists to keep track of their daily to-dos, set priorities for each task, and mark them as completed once they're done. This feature is especially useful for individuals who have a lot of tasks to manage and need a way to stay organized.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVx18l9.jpg",
+      "title": "Banban Helper 3",
+        "text_Content": "Banban Helper's task lists are highly customizable, allowing users to add as many tasks as they need and categorize them by project, due date, or other criteria. Tasks can also be assigned to specific team members, making it easy to delegate tasks and collaborate with colleagues.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVx1SSe.jpg",
+      "title": "Banban Helper 4",
+        "text_Content": "Banban Helper's task lists are highly customizable, allowing users to add as many tasks as they need and categorize them by project, due date, or other criteria. Tasks can also be assigned to specific team members, making it easy to delegate tasks and collaborate with colleagues.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVx18l9.jpg",
+      "title": "Banban Helper 5",
+        "text_Content": "With Banban Helper's project management features, users can create project timelines, visualize the progress of each project, and get real-time updates on project status. This level of visibility and transparency can be incredibly valuable for teams working on complex projects, as it helps ensure that everyone is on the same page and working toward the same goals.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVx14Nj.jpg",
+      "title": "Banban Helper 6",
+        "text_Content": "With Banban Helper's project management features, users can create project timelines, visualize the progress of each project, and get real-time updates on project status. This level of visibility and transparency can be incredibly valuable for teams working on complex projects, as it helps ensure that everyone is on the same page and working toward the same goals.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVx1OV2.jpg",
+      "title": "Banban Helper 7",
+        "text_Content": "With Banban Helper's project management features, users can create project timelines, visualize the progress of each project, and get real-time updates on project status. This level of visibility and transparency can be incredibly valuable for teams working on complex projects, as it helps ensure that everyone is on the same page and working toward the same goals.",
+        "text_Content_1": ""
 
 
 
